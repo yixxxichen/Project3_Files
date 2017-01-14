@@ -1,0 +1,2 @@
+﻿  Source.c
+LINK : fatal error LNK1104: cannot open file 'libmysql.lib'
